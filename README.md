@@ -19,3 +19,9 @@
 ## Design & Prototyping
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+
+## Libraries & Animation
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
+![Swiper](https://img.shields.io/badge/Swiper-6332F6?style=for-the-badge&logo=swiper&logoColor=white)
+![AOS](https://img.shields.io/badge/AOS-000000?style=for-the-badge&logoColor=white)
+![fullPage.js](https://img.shields.io/badge/fullPage.js-FF5A5F?style=for-the-badge&logoColor=white)
