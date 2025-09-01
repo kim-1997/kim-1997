@@ -17,6 +17,7 @@
 <h3>상태 관리</h3>
 <p>
   <img src="https://img.shields.io/badge/Zustand-4B5562?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"/>
 </p>
 
 <!-- Version Control & Collaboration -->
